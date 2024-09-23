@@ -27,4 +27,11 @@ public class TP1_convertisseur_CARRERA {
         System.out.println("La temperature en Kelvin est de : " + Kelvin + "K");
         scanner.close();
     }
+    /**
+     * @param args the command line arguments
+     */
+    public static double CelciusVersKelvin (double tCelcius) {
+        
+    }
+        
 }
