@@ -22,7 +22,7 @@ public class Exo2 {
  int nb;
  //nb=5;
  Scanner sc = new Scanner(System.in);
- System.out.println("\n Entrer le nombre :");
+ System.out.println("Entrer le nombre :");
  nb=sc.nextInt(); 
  int result;
  int ind = 0;
