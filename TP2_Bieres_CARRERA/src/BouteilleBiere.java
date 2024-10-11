@@ -9,7 +9,7 @@
  */
 public class BouteilleBiere {
     String nom;
-    float degreAlcool;
+    double degreAlcool;
     String brasserie;
     boolean ouverte;
     
