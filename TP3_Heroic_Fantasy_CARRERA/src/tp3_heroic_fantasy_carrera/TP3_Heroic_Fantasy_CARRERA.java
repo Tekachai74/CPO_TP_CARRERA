@@ -14,7 +14,6 @@ public class TP3_Heroic_Fantasy_CARRERA {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
     }
-    
 }
