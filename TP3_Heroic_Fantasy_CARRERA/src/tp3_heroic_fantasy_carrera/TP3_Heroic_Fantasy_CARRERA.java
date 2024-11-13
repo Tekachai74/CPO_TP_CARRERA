@@ -17,3 +17,14 @@ public class TP3_Heroic_Fantasy_CARRERA {
         
     }
 }
+
+
+
+/*public class Main {
+    public static void main(String[] args) {
+        Epee epee = new Epee("Excalibur", 90, 85);
+        Baton baton = new Baton("Bâton de sagesse", 70, 60);
+
+        System.out.println(epee);
+        System.out.println(baton);
+*/
