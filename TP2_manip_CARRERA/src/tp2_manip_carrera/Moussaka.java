@@ -9,5 +9,8 @@ package tp2_manip_carrera;
  * @author valen
  */
 public class Moussaka {
-    
+    int nbCalories;
+    public Moussaka(int nbCal) {
+        nbCalories = nbCal;
+    }
 }
