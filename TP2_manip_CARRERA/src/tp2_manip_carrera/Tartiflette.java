@@ -10,5 +10,8 @@ package tp2_manip_carrera;
  * @author VC
  */
 public class Tartiflette {
-    
+    int nbCalories;
+    public Tartiflette(int nbCal) {
+        nbCalories = nbCal;
+    }
 }
